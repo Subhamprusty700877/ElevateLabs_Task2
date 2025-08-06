@@ -9,7 +9,7 @@ This dashboard was created as part of my Data Analyst internship task focused on
 - **Dataset:** Sample - Superstore.xls
 - It includes details like sales, profit, order returns, categories, sub-categories, regions, and time.
 
-## 🛠 What I Did
+##  What I Did
 Using **Power BI**, I built a dashboard to help understand:
 - How much we sold and earned (Sales & Profit)
 - How things have changed compared to the previous year
